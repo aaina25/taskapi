@@ -1,0 +1,58 @@
+.logo{
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 5px solid green;
+  background-color: peachpuff;
+}
+
+nav a{
+    padding: 5px;
+  margin: 3px;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+h1{
+  font-size: 32px;
+}
+
+button{
+  border-radius: 50%;
+  height:25px;
+  margin: 5px;
+  color: red;
+  background-color: skyblue;
+ 
+}
+
+.demotask{
+  text-align: center;
+}
+
+form div {
+  margin:20px;
+}
+
+form div label{
+  margin: 30px;
+}
+
+.footer{
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: black;
+}
+
+.say{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: yellow;
+  background-color: rebeccapurple;
+  font-size: medium;
+  font-style: italic;
+  text-align: center;
+}
+
+.hey{
+  text-align: center;
+}
